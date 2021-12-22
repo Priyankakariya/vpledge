@@ -1,0 +1,26 @@
+{
+  "name": "vpledge",
+  "version": "1.0.0",
+  "dependencies": {
+{
+  productNumber: 1,
+  dropLocation: 2,
+  weight: 10
+},
+{
+productNumber: 3,
+dropLocation: 2,
+weight: 2
+},
+{
+productNumber: 2,
+dropLocation: 1,
+weight: 10
+},
+{
+productNumber: 4,
+dropLocation: 1,
+weight: 15
+}
+  }
+}
